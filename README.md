@@ -15,6 +15,7 @@ This repo contains the simple demo for the NeurIPS-18 paper: [Learning to Teach 
 * The code is based on the Theano framework, which is somehow too old to directly apply this code. 
 
 ### Detailed Critical Codes
+Refer to `loss_lenet_light_dynamic.py` for the detailed demo codes. The general comments are here:
 * [Define the loss parameters and loss computation graph](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L484)
 * [Teacher model paramters](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L514)
 * [Define the updates of model training according to the loss function (jointly train model update)](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L543)
