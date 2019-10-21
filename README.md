@@ -22,5 +22,5 @@ This repo contains the simple demo for the NeurIPS-18 paper: [Learning to Teach 
 * [Train student model with fixed loss function](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L646)
 * [Detailed reverse model training](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L754)
 ```
-This is the most important part which contains the reverse model update chains. 
+The last one is the most important part which contains the reverse model update chains. 
 ```
