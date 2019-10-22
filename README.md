@@ -23,5 +23,5 @@ Refer to `loss_lenet_light_dynamic.py` for the detailed demo codes. The general 
 * [Train student model with fixed loss function](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L646)
 * [Detailed reverse model training](https://github.com/apeterswu/L2T_loss/blob/master/loss_lenet_light_dynamic.py#L754)
 ```
-The last one is the most important part which contains the reverse model update chains. 
+The 'reverse model training' defines the updates of the teacher model, and the last one is the detailed reverse model update chains. 
 ```
